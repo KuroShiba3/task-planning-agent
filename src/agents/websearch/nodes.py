@@ -223,8 +223,8 @@ async def generate_task_result(state: WebSearchState) -> WebSearchState:
     （タスク結果の本文）
 
     【参考情報】
-    • <https://example.com/article>
-    • <https://another.com/page>
+    • https://example.com/article
+    • https://another.com/page
     ```
 
 5. **不足情報への対応**:
