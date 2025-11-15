@@ -8,7 +8,7 @@ async def main():
 
     # 初期状態の準備
     initial_state = {
-        "messages": [HumanMessage(content="今日の東京と埼玉の天気を教えて")],
+        "messages": [HumanMessage(content="明日から3日間の東京旅行のプランを考えて")],
         "attempt": 0
     }
 
