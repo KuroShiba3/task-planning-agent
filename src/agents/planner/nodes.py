@@ -151,8 +151,8 @@ async def generate_final_answer(state: BaseState) -> Command:
     （回答の本文）
 
     【参考情報】
-    • <https://example.com/article>
-    • <https://another.com/page>
+    • https://example.com/article
+    • https://another.com/page
     ```
 
 ## 重要な注意事項:
